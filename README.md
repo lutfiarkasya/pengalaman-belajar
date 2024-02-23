@@ -12,3 +12,8 @@ Belajar Dasar Untuk Menjadi Pengembang Software.
 * Pengenalan JavaScript.
 * Pengenalan HTML & CSS.
 * Lulus pada 22 Februari 2024.
+
+**22 Februari 2024**<br>
+Belajar Dasar Git dengan GitHub (30%).
+* Pengenalan Git dan GitHub.
+* Belajar Git Dasar.
